@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/bin/Debug/net6.0/jsonmaker
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/bin/Debug/net6.0/jsonmaker.deps.json
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/bin/Debug/net6.0/jsonmaker.runtimeconfig.json
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/bin/Debug/net6.0/jsonmaker.dll
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/bin/Debug/net6.0/jsonmaker.pdb
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/jsonmaker.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/jsonmaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/jsonmaker.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/jsonmaker.AssemblyInfo.cs
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/jsonmaker.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/jsonmaker.dll
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/refint/jsonmaker.dll
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/jsonmaker.pdb
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/jsonmaker.genruntimeconfig.cache
+/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/obj/Debug/net6.0/ref/jsonmaker.dll

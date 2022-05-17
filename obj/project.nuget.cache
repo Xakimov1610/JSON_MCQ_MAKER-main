@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XS4TfP4TambvR6yAUV5RXF+QJJU20UQ8o09o3jPnRBOj0ewRctJtm88EussMKZaHaSlKzSCh3/w/Tn0Bzd4Kvw==",
+  "success": true,
+  "projectFilePath": "/Users/xakimov/Dev/dotnet-backend/JSON_MCQ_MAKER-main/jsonmaker.csproj",
+  "expectedPackageFiles": [
+    "/Users/xakimov/.nuget/packages/system.net.http.json/6.0.0/system.net.http.json.6.0.0.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
